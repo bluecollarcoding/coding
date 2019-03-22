@@ -59,3 +59,7 @@ Every programming language has a "Hello World" tutorial. Google them & try a few
 - `bash` -> not a programming language but **very** useful; executes stuff on the command-line for you
 
 Make some customized Hello World apps, commit them to your repo, push a new branch, make a PR and we'll go from there.
+
+## Markdown
+
+Is the preferred file format (`.md`) for text files that aren't code. It's good to know [some basics](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and get comfortable using it.
