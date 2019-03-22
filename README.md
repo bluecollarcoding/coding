@@ -19,6 +19,7 @@ Only the most commonly used options are (eventually) memorized via muscle memory
 - `cp`
 - `echo`
 - `cat`
+- `rm`
 
 Google stuff like: "using cp basics ubuntu".
 
